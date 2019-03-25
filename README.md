@@ -16,6 +16,8 @@ Udacity DSND Project
 ## Introdruction<a id="introdution"></a>
 Airbnb is not just an "another" alternative living accommodation of traditional hotel chains, but a phenomenon that momentarily alters people' view about the hospitality industry. It offers unique living experience that can let customers choose their own penchant living environment. Fortunately, Airbnb opens its [database](http://insideairbnb.com/get-the-data.html) of millions of records about the information of listings, customer reviews. With those data, we can understand Airbnb's ecosystem and how it works. 
 
+It is nice to know how those Airbnb distributed around New York City and how the price of them especially the most expensive listing. Besides, it also is good to see the price trend monthly so visitors could make a travel plan based on the tendency to get some bargain price. Finally, how customer views these Airbnb listings could indicate how this company is doing for its business.
+
 ## Three Questions to be answered<a id="threequestion"></a>
 1. Where are the most expensive Airbnb listings located in ?
 2. What is the monthly trend of the listing price?
