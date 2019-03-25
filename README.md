@@ -11,7 +11,10 @@ Airbnb is not just an "another" alternative living accommodation of traditional 
 <ol><li>Where are those most expensive Airbnb listings located in? </li><li>What is the monthly trend of the listing price?</li><li>How customer review based on the sentiment analysis?</li></oi>
 <!-- /wp:list -->
 
-__Data Sets__
+<!-- wp:heading -->
+<h2>Data Sets </h2>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 <p>Thanks to the open data from  <a rel="noreferrer noopener" href="http://insideairbnb.com/get-the-data.html" target="_blank">Inside Airbnb</a>, the data sets used are:</p>
 <!-- /wp:paragraph -->
