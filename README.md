@@ -14,7 +14,7 @@ Udacity DSND Project
 7. [Acknowledge](#ackowledge)
 
 ## Introdruction<a id="introdution"></a>
-Airbnb is not just an "another" alternative living accommodation of traditional hotel chains, but a phenomenon that momentarily alters people' view about the hospitality industry. It offers unique living experience that can let customers choose their own penchant living environment. Fortunately, Airbnb opens its database of millions of records about the information of listings, customer reviews. With those data, we can understand Airbnb's ecosystem and how it works. 
+Airbnb is not just an "another" alternative living accommodation of traditional hotel chains, but a phenomenon that momentarily alters people' view about the hospitality industry. It offers unique living experience that can let customers choose their own penchant living environment. Fortunately, Airbnb opens its [database](http://insideairbnb.com/get-the-data.html) of millions of records about the information of listings, customer reviews. With those data, we can understand Airbnb's ecosystem and how it works. 
 
 ## Three Questions to be answered<a id="threequestion"></a>
 1. Where are the most expensive Airbnb listings located in ?
