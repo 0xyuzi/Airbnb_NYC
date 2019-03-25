@@ -8,7 +8,7 @@ Airbnb is not just an "another" alternative living accommodation of traditional 
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>Where are those most expensive Airbnb listings located in? </li><li>What is the monthly trend of the listing price?</li><li>How customer review based on the sentiment analysis?</li><li></li></ol>
+<ol><li>Where are those most expensive Airbnb listings located in? </li><li>What is the monthly trend of the listing price?</li><li>How customer review based on the sentiment analysis?</li>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
