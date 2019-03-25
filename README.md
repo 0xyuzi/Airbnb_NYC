@@ -4,11 +4,11 @@ Udacity DSND Project
 Airbnb is not just an "another" alternative living accommodation of traditional hotel chains, but a phenomenon that momentarily alters people' view about the hospitality industry. It offers unique living experience that can let customers choose their own penchant living environment. Fortunately, Airbnb opens its database of millions of records about the information of listings, customer reviews. With those data, we can understand Airbnb's ecosystem and how it works. 
 
 <!-- wp:heading -->
-<h2>Things to be explored</h2>
+<h2>Three questions </h2>
 <!-- /wp:heading -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>Where are those most expensive Airbnb  located in? </li><li>What is the monthly trend of the listing price?</li><li>How customer review based on the sentiment analysis?</li><li></li></ol>
+<ol><li>Where are those most expensive Airbnb listings located in? </li><li>What is the monthly trend of the listing price?</li><li>How customer review based on the sentiment analysis?</li><li></li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
