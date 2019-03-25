@@ -20,3 +20,5 @@ Airbnb is not just an "another" alternative living accommodation of traditional 
 <!-- /wp:list -->
 
 The detailed analysis is in the notebook of [Airbnb-NYC-Listing.ipynb](./Airbnb-NYC-Listing.ipynb)
+
+It also can been seen in the [blog](https://machinelearntolearn.home.blog/2019/03/25/airbnb-new-york-data-exploration-udacity-dsnd-project/) 
